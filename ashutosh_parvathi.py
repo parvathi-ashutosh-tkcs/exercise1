@@ -3,12 +3,6 @@ def fun1():
 
 fun1()
  
-
-def fun2():
-	print ("This is second function ny P")
-
-fun2()
-
 def fun3():
 	print ("This is 3rd func added in branch_image by P")
 
