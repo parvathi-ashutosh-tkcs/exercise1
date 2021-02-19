@@ -15,3 +15,4 @@ def fun3():
 fun3()
 
 print(""A" pulled branch_image and master and merged both and pushed")
+print ("corrected")
