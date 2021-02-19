@@ -1,5 +1,11 @@
 def fun1():
-	print ("hello world")
+	print ("hello world by A")
 
 fun1()
-//ashutosh 
+ 
+
+def fun2():
+	print ("This is second function ny P")
+
+fun2()
+
