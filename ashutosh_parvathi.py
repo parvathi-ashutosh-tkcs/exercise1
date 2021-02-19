@@ -9,3 +9,8 @@ def fun2():
 
 fun2()
 
+def fun3():
+	print ("This is 3rd func added in branch_image by P")
+
+fun3()
+
